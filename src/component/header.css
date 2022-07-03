@@ -1,0 +1,58 @@
+.header{
+    height: 85px;
+    width: 100%;
+    background-color:lightskyblue;
+    /* display: flex; */
+  
+}
+.container{
+     /* background-color: blue;  */
+    height: 100%;
+    width: 100%;
+    margin-left: 8px;
+    /* display: flex; */
+    position: relative;
+   
+}
+.box{
+    background-color: blue;
+    height: 50%;
+    width: 40%;
+    display: flex;
+   margin-top: 5%;
+   margin-left: 30%;
+   border: 1px solid black;
+}
+.box2{
+    /* background-color: blueviolet; */
+    width: 50%;
+    height: 50%;
+    margin-top: 10%;
+    margin-left: 20%;
+    
+}
+ .search-parent input{
+    height: 75% ;
+    width: 90%;
+    font-size: 17px;
+    border: none;
+} 
+.render{
+    margin-left: 60%;
+    margin-top: 20px;
+}
+.text1{
+  
+    /* background-color: green; */
+    color: black;
+    font-size: large;
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    margin-left: 40%;
+}
+.login-button{
+    /* background-color: red; */
+    color: black;
+    font-size: large;
+}

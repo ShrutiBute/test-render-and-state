@@ -1,0 +1,29 @@
+.parent{
+    /* background-color: red; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap;
+    background-size: auto;
+}
+.cart-box{
+    background-color:lightblue;
+    height: 20%;
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 20px;
+    padding: 2px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.text{
+    background-color: pink;
+     display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    /* align-items: center; */ 
+    color: black;
+    font-size: larger;
+    font-weight: 400px;
+}
